@@ -1,0 +1,17 @@
+
+--- Lote 1 ---
+________________________
+1- Alejandra
+Resultados: 7.0
+2- Carlos
+Resultados: 12.0
+3- Diego
+Resultados: 10.0
+4- Elizabeth
+Resultados: -2.0
+5- Samantha
+Resultados: -2.0
+--- Lote 2 ---
+________________________
+6- Carlos
+Resultados: 11.0
